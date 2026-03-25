@@ -37,62 +37,11 @@
 
 ###
 
-## 🧠 About Me
-- 💻 Backend Developer using **Node.js & Express**
-- 📱 Flutter Developer building cross-platform apps
-- ⚡ Focused on **clean architecture & scalable systems**
-- 🎓 Computer Engineering Graduate – Ain Shams University
-
----
-
-## 🚀 Projects
-
-### 🏋️ Peak – Gym Social Media App
-- Built a social platform for workouts & exercises  
-- 🚀 Improved performance to **96%** using caching & indexing  
-
-### 🛒 Cairocal – E-commerce Backend (Graduation Project)
-- Built **RESTful APIs** (Users, Suppliers, Admins)  
-- 🔐 Implemented **JWT authentication & RBAC**  
-- 🗄️ Designed PostgreSQL database  
-
-### 💄 Metics – E-commerce App
-- Flutter app for buying & selling cosmetics  
-- 🔥 Integrated Firebase (Auth, Storage, DB)  
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-- Node.js, Express.js  
-- PostgreSQL, MongoDB  
-- Firebase, Supabase  
-- REST APIs, JWT  
-
-### Flutter
-- Bloc, Riverpod, Provider  
-- Hive, SQLite  
-
-### Core
-- OOP, Data Structures, Algorithms  
-- Design Patterns  
-
----
-
-## 🌍 Languages
-- Arabic: Native  
-- English: Professional  
-
----
-
-<div align="center">
-
-### 🔥 "Always building, always learning"
-
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph-dark.svg">
