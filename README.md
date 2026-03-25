@@ -1,87 +1,52 @@
-# 👋 Hey, I'm Abdelrahman Ahmed
+<h1 align="center">Hey 👋What's Up?</h1>
 
-## 🚀 Software Developer
+###
 
-📍 Cairo, Egypt  
-📧 abdelrahman.rezk7395@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/abdelrahman-rezq) | [GitHub](https://github.com/AbdElrhmanRezq)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
----
+###
 
-## 🧠 About Me
-Software Developer with hands-on experience building scalable RESTful APIs and cross-platform mobile applications using **Node.js** and **Flutter**.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-I focus on:
-- Clean architecture 🏗️
-- Code quality ✨
-- Building reliable and maintainable systems ⚙️
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🛠️ Tech Stack
+###
 
-### 💻 Backend
-- Node.js, Express.js
-- PostgreSQL, MongoDB
-- Firebase, Supabase
-- REST APIs, JWT Authentication
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-### 📱 Mobile (Flutter)
-- State Management: Bloc, Riverpod, Provider
-- Local Storage: Hive, SQLite
-- REST API Integration
-
-### ⚙️ Tools & Deployment
-- Git & GitHub
-- Microsoft Azure
-- Postman
-
-### 📚 Core Concepts
-- OOP, Data Structures, Algorithms
-- Design Patterns
-- Operating Systems
-
----
-
-## 📂 Projects
-
-### 🏋️ Peak – Gym Social Media App
-- Built a social platform for gym users to track workouts and connect
-- Improved performance to **96%** using caching & indexing
-
-### 🛒 Cairocal – Graduation Project
-- Developed full RESTful APIs (Users, Suppliers, Admins)
-- Implemented JWT authentication & role-based authorization
-- Designed relational database using PostgreSQL
-
-### 💄 Metics – E-commerce App
-- Built a cosmetics marketplace using Flutter
-- Integrated Firebase (Auth, Storage, Database)
-
-👉 More projects on my [GitHub](https://github.com/AbdElrhmanRezq)
-
----
-
-## 🎓 Education
-**Faculty of Engineering – Ain Shams University**  
-Bachelor of Computer Engineering (2020 – 2025)  
-🎓 GPA: 3.28 (Very Good)  
-🏆 Graduation Project: Cairocal (Grade: A)
-
----
-
-## 📈 Currently Learning
-- Advanced backend scaling
-- System design
-- AI integration in software development
-
----
-
-## 🌍 Languages
-- Arabic: Native  
-- English: Professional
-
----
-
-## 🤝 Let's Connect
-I'm always open to opportunities, collaborations, or just a good tech discussion 🚀
+###
