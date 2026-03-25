@@ -32,18 +32,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AbdElrhmanRezq&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=AbdElrhmanRezq&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
 </div>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph.svg">
