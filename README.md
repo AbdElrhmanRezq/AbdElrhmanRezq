@@ -30,9 +30,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdElrhmanRezq&theme=dracula&hide_border=false" height="150" />
-</div>
 
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdElrhmanRezq/AbdElrhmanRezq/output/pacman-contribution-graph-dark.svg">
